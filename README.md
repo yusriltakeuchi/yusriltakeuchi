@@ -1,16 +1,18 @@
-### Hi there 👋
+Backend & Mobile Developer. Flutter & Web Crawling Enthusiast.
 
-<!--
-**yusriltakeuchi/yusriltakeuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=yusriltakeuchi&show_icons=true)
 
-Here are some ideas to get you started:
+### Roles :
+- Senior Programmer Diginova Kreasi Indonesia
+- Mobile Developer Freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Playground :
+- Flutter (Android & iOS)
+- Laravel
+- Lumen
+- Golang
+- Python
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yusriltakeuchi)
