@@ -3,7 +3,7 @@ Backend & Mobile Developer. Flutter & Web Crawling Enthusiast.
 ![github stats](https://github-readme-stats.vercel.app/api?username=yusriltakeuchi&show_icons=true)
 
 ### Roles :
-- Senior Programmer Diginova Kreasi Indonesia
+- Mobile Developer at GenPI.co
 - Mobile Developer Freelance
 
 ### Playground :
