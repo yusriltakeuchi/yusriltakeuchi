@@ -4,6 +4,7 @@ Backend & Mobile Developer. Flutter & Web Crawling Enthusiast.
 
 ### Roles :
 - Mobile Developer at GenPI.co
+- Mobile Developer at Idejualan
 - Mobile Developer Freelance
 
 ### Playground :
