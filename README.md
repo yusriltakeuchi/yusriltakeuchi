@@ -12,5 +12,4 @@ Backend & Mobile Developer. Flutter & Web Crawling Enthusiast.
 - Flutter (Android & iOS)
 - Laravel
 - Lumen
-- Golang
 - Python
