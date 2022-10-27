@@ -19,6 +19,7 @@
 ### Roles :
 - Mobile Developer at GenPI.co
 - Mobile Developer at Idejualan
+- Mobile Developer at Kampusjualan
 - Mobile Developer at Mumtaz
 - Mobile Developer Freelance
 
