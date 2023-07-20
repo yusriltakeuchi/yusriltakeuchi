@@ -17,9 +17,8 @@
 [![Yusril' Activity Graph](https://activity-graph.herokuapp.com/graph?username=yusriltakeuchi&custom_title=Yusril's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://leeyurani.com/)
 
 ### Roles :
-- Mobile Developer at GenPI.co
+- Mobile Developer at Bank BNI
 - Mobile Developer at Idejualan
-- Mobile Developer at Kampusjualan
 - Mobile Developer at Mumtaz
 - Mobile Developer Freelance
 
