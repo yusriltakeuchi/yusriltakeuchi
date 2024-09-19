@@ -18,7 +18,6 @@
 
 ### Roles :
 - Mobile Developer at Bank BNI
-- Mobile Developer at Idejualan
 - Mobile Developer at Mumtaz
 - Mobile Developer Freelance
 
