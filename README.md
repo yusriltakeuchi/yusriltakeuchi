@@ -35,4 +35,4 @@
 
 ### 🚀 My Products
 - 🔋 **Fuelmeter** — Intelligent fuel tracking app
-- 📦 **[RocketMob](https://rocket-mobile.vercel.app/)** — Mobile-ready e-commerce solution
+- 📦 **[RocketMob](https://rocketmob.yurapsanjani.com)** — Mobile-ready e-commerce solution
