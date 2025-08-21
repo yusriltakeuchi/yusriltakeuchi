@@ -13,7 +13,6 @@
 
 ### 🦸‍♂️ Roles
 - 💼 Mobile Developer at **Bank BNI**
-- 📱 Mobile Developer at **Mumtaz**
 - 👨‍💻 Freelance Mobile Developer
 
 ---
