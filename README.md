@@ -1,6 +1,6 @@
 <h1 align="center"><b>Yusril Rapsanjani</b></h1>
 <p align="center">
-  Backend & Mobile Developer · Flutter & Web Crawling Enthusiast
+  Backend & Mobile Developer · Flutter Enthusiast
 </p>
 
 <p align="center">
