@@ -12,7 +12,7 @@
 ---
 
 ### 🦸‍♂️ Roles
-- 👨‍💻 Mobile Developer
+- 👨‍💻 Mobile Developer at UangMe (PT Uangme Fintek Indonesia)
 
 ---
 
