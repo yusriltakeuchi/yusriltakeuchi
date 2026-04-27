@@ -32,5 +32,5 @@
 ---
 
 ### 🚀 My Products
-- 🔋 **[Fuelmeter](https://fmeter.yurapsanjani.com/)** — Intelligent fuel tracking app
+- 🔋 **[Fuelmeter](https://fuelmeter.id/)** — Intelligent fuel tracking app
 - 📦 **[RocketMob](https://rocketmob.yurapsanjani.com)** — Mobile-ready e-commerce solution
